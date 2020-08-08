@@ -25,8 +25,8 @@ Not only this, but also how the the size of the data you manipulate with algorit
 difference. 
 
 Moving forward from this program, I applied better planning and more careful selection of algorithms / data
-storing structures for my current projects. I do plan on eventually re-designing this project in C to test
-how strong I can make the AI.
+structures for my current projects. I do plan on eventually re-designing this project in C++ to test how strong
+I can make the AI.
 
 Ending Note
 -----------
