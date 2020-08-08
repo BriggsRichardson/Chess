@@ -13,10 +13,10 @@ files.
 
 Background 
 ----------
-I wrote this program during my Sophomore year as a CS student. It was my first offical personal project
-with a larger scale. During the process of developing this chess program, I learned the basics of GUI
-event-driven programming, the importance of the structure and architecture of a program as well as the 
-communication between different objects (their data), recursion, and artificial intelligence.
+I wrote this program during my Sophomore year as a CS student. It was my first offical personal project. During 
+the process of developing this chess program, I learned the basics of GUI event-driven programming,
+the importance of the structure and architecture of a program as well as the communication between different 
+objects (their data), recursion, and artificial intelligence.
 
 The artificial intelligence started with random moves, but transitioned to the minimax algorithm with 
 alpha-beta pruning. The engine thinks 4 moves ahead, and is not as fast as desired. The project taught
