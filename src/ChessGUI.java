@@ -39,18 +39,18 @@ public class ChessGUI
 
     private boolean computerMode = false; // Option choice of which mode
     // the game is in
-    private ImageIcon wPawn = new ImageIcon("src/icons/wPawn.png");
-    private ImageIcon bPawn = new ImageIcon("src/icons/bPawn.png");
-    private ImageIcon wKnight = new ImageIcon("src/icons/wKnight.png");
-    private ImageIcon bKnight = new ImageIcon("src/icons/bKnight.png");
-    private ImageIcon wBishop = new ImageIcon("src/icons/wBishop.png");
-    private ImageIcon bBishop = new ImageIcon("src/icons/bBishop.png");
-    private ImageIcon wRook = new ImageIcon("src/icons/wRook.png");
-    private ImageIcon bRook = new ImageIcon("src/icons/bRook.png");
-    private ImageIcon wQueen = new ImageIcon("src/icons/wQueen.png");
-    private ImageIcon bQueen = new ImageIcon("src/icons/bQueen.png");
-    private ImageIcon wKing = new ImageIcon("src/icons/wKing.png");
-    private ImageIcon bKing = new ImageIcon("src/icons/bKing.png");
+    private ImageIcon wPawn = new ImageIcon("../src/icons/wPawn.png");
+    private ImageIcon bPawn = new ImageIcon("../src/icons/bPawn.png");
+    private ImageIcon wKnight = new ImageIcon("../src/icons/wKnight.png");
+    private ImageIcon bKnight = new ImageIcon("../src/icons/bKnight.png");
+    private ImageIcon wBishop = new ImageIcon("../src/icons/wBishop.png");
+    private ImageIcon bBishop = new ImageIcon("../src/icons/bBishop.png");
+    private ImageIcon wRook = new ImageIcon("../src/icons/wRook.png");
+    private ImageIcon bRook = new ImageIcon("../src/icons/bRook.png");
+    private ImageIcon wQueen = new ImageIcon("../src/icons/wQueen.png");
+    private ImageIcon bQueen = new ImageIcon("../src/icons/bQueen.png");
+    private ImageIcon wKing = new ImageIcon("../src/icons/wKing.png");
+    private ImageIcon bKing = new ImageIcon("../src/icons/bKing.png");
 
     public ChessGUI()
     {
